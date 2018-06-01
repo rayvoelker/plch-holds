@@ -1,0 +1,10 @@
+env/
+venv/
+*.ini
+*.db
+*.db-journal
+testing/
+old_work/
+*.xz
+*.xlsx
+*.xls
